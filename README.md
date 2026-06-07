@@ -84,3 +84,6 @@ curl -X POST https://css-unit-converter.vercel.app/all-conversions \
 ## Pricing
 
 Available on RapidAPI for $19/month for teams needing production-grade conversions.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/css-unit-converter/main/postman_collection.json)
